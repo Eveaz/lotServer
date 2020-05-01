@@ -11,7 +11,6 @@
   * [优化内存相关](#优化内存相关)
   * [控制锐速CPU峰值防止死机](#控制锐速CPU峰值防止死机)
   * [重装系统相关](#重装系统相关)
-  * [萌咖大佬相关](#萌咖大佬相关)
 ***
 ***
 ## 更换内核相关
@@ -201,13 +200,5 @@ sudo apt-get install update-notifier-common
 ````
 ***
 ***
-## 萌咖大佬相关
-
-## 许可证生成 -->[萌咖 API接口](https://moeclub.org/api)  
-- 如果无法生成许可证,可能API正在被无聊的人攻击.
-
-## [常见问答](https://github.com/MoeClub/lotServer/wiki)     
-
-## [更新历史](http://download.appexnetworks.com.cn/releaseNotes/)     
 
   
